@@ -1,0 +1,24 @@
+__label__spam cash offer
+__label__spam free samples
+__label__spam congratulations
+__label__spam exclusive discount
+__label__spam you have been selected
+__label__spam free giveaway
+__label__spam free offer
+__label__spam exclusive offer to buy everything
+__label__spam purchase now
+__label__spam lose weight fast
+__label__social join my network
+__label__social please add me to your network
+__label__social linkedin
+__label__social facebook
+__label__social instagram
+__label__social instagram likes
+__label__social invitation: september meetup
+__label__notspam meeting
+__label__notspam news update
+__label__notspam career development
+__label__notspam important topics
+__label__notspam scheduling 
+__label__notspam daily standup
+__label__notspam github pull request

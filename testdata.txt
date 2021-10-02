@@ -1,0 +1,24 @@
+__label__spam cash for free
+__label__spam free flights
+__label__spam congratulations
+__label__spam exclusive offers
+__label__spam you have been selected
+__label__spam lose money
+__label__spam free offer
+__label__spam exclusive offer to buy nothing
+__label__spam purchase now
+__label__spam lose weight fast
+__label__social
+__label__social please add me to your
+__label__social linkedin
+__label__social please add me to facebook
+__label__social instagram
+__label__social instagram likes
+__label__social invitation: september meetup
+__label__notspam meeting
+__label__notspam news update
+__label__notspam
+__label__notspam important topics
+__label__notspam scheduling 
+__label__notspam weekly standup
+__label__notspam github post request
